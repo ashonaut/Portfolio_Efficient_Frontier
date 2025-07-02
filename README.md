@@ -31,6 +31,15 @@ Generate and visualize the Markowitz Efficient Frontier for TCS, Infosys, and NI
 \- `data/prices.csv`: downloaded price data  
 
 \- `results/efficient\_frontier.png`: output chart
+## Optimal Portfolio Weights
+
+| Portfolio       | INFY.NS | NIFTYBEES.NS | TCS.NS |
+|-----------------|---------|--------------|--------|
+| Max Sharpe      | 31.7%   | 68.0%        | 0.2%   |
+| Min Volatility  | 0.1%    | 93.1%        | 6.7%   |
+
+This shows how asset allocations shift for maximum Sharpe vs. minimum volatility.
+
 
 
 
