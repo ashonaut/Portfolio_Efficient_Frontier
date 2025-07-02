@@ -1,0 +1,14 @@
+# Byte-compiled / caches
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*
+!data/.gitkeep
+
+# Results images
+results/*
+!results/.gitkeep
